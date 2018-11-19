@@ -1006,7 +1006,7 @@ verror@1.10.0:
 
 "wcDocker@git+ssh://git@github.com:jczhangwei/wcDocker.git#master":
   version "2.2.4-dev"
-  resolved "git+ssh://git@github.com:jczhangwei/wcDocker.git#0f3de3e4f3ea9087a0fdcf66fdd66bb60dca58dd"
+  resolved "git+ssh://git@github.com:jczhangwei/wcDocker.git#6a5b566bad027d673997e5507753fa55aebdeba3"
   dependencies:
     FileSaver "^0.10.0"
     font-awesome "^4.7.0"
